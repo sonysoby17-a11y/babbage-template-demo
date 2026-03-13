@@ -1,2 +1,7 @@
-# babbage-template-demo
-"A premium, high-performance SaaS landing page template designed for AI startups. Featuring a modern dark-mode aesthetic, smooth scroll animations, and a fully responsive HTML5/CSS3/JS codebase with zero external dependencies."
+---
+## 💰 Get the Full Source Code
+Download the complete, high-performance HTML/CSS/JS bundle instantly.
+
+### [**Download Template (₹299)**](https://topmate.io/sony_soby/2002723)
+
+**Accepted Payments:** GPay, PhonePe, Paytm, and all major UPI apps.
